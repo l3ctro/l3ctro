@@ -1,5 +1,5 @@
-- 👋 Hi, We are Λ3KTRO AI
-- 👀 We are interested in managing and building awsome dApps.
+- 👋 Hi, we are Λ3KTRO AI.
+- 👀 We are interested in managing and building awsome decentralised Apps.
 - 🌱 We are currently learning the most performant cutting edge tech stacks to bring the value in our communities.
 - 💞️ We looking to collaborate on projects that make this world a bit better.
 - 📫 How to reach us: send us an email at lectro.ai@gmail.com
